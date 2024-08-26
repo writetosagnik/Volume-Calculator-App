@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="midnight">#024059</color>
+    <color name="lionsmane">#FCEEE5</color>
+    <color name="lavender">#C3BFD8</color>
+    <color name="herb">#768C6C</color>
+    <color name="marigold">#F2A25C</color>
+    <color name="berken">#736A5A</color>
+    <color name="game_room_green">#9AA094</color>
+    <color name="brick_red">#BF6565</color>
+    <color name="maroon">#945C65</color>
+    <color name="amythest">#5C5D73</color>
+    <color name="charcoal">#383838</color>
+    <color name="keylime">#EEF5CC</color>
+    <color name="periwinkle">#C4C7E8</color>
+    <color name="deep_ocean">#00BCD4</color>
+    <color name="spaceGray">#8888AE</color>
+</resources>
