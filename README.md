@@ -4,7 +4,8 @@ Users can easily input the necessary dimensions and select the desired shape fro
 
 
 Key Features:
- 1.Intuitive User Interface: A user-friendly gridview layout allows for easy shape selection and dimension input.
+
+1.Intuitive User Interface: A user-friendly gridview layout allows for easy shape selection and dimension input.
 2. Accurate Calculations: The app ensures precise volume calculations based on established mathematical formulas.
 3. Wide Range of Shapes: Supports a variety of shapes, including spheres, cubes, cylinders, pyramids, and more.
 4. Mobile-Optimized: Designed specifically for Android devices, providing a seamless and efficient experience.
